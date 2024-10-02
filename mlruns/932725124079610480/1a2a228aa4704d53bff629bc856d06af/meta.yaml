@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/932725124079610480/1a2a228aa4704d53bff629bc856d06af/artifacts
+end_time: 1727881714233
+entry_point_name: ''
+experiment_id: '932725124079610480'
+lifecycle_stage: active
+run_id: 1a2a228aa4704d53bff629bc856d06af
+run_name: HGB Regressor_run_82
+run_uuid: 1a2a228aa4704d53bff629bc856d06af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727881714130
+status: 3
+tags: []
+user_id: User
