@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/531052605394243068/87560d405bae43a9b7c66b6498d4850a/artifacts
+end_time: 1728899608056
+entry_point_name: ''
+experiment_id: '531052605394243068'
+lifecycle_stage: active
+run_id: 87560d405bae43a9b7c66b6498d4850a
+run_name: RF Regressor_run_4
+run_uuid: 87560d405bae43a9b7c66b6498d4850a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728899607950
+status: 3
+tags: []
+user_id: User
