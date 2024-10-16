@@ -4,7 +4,7 @@
 
 Avocados, known for their versatility in the kitchen, have earned a reputation as a luxury item in certain regions due to their relatively high price compared to other fruits and their association with modern, health-conscious lifestyles. 
 
-The aim of this project is to (i) forecast avocado demand, considering factors such as pricing, variety, region, and seasonality, and (ii) optimise pricing strategies to align with demand, ensuring profitability and sustained consumer interest. To do this, a combination of machine learning and optimisation algorithms will be used.
+The aim of this project is to (i) forecast avocado demand, considering factors such as pricing, variety, region, and seasonality, and (ii) optimise pricing strategies to align with demand, ensuring profitability and sustained consumer interest. To do this, a combination of machine learning and optimisation algorithms were used.
 
 ## Data
 
